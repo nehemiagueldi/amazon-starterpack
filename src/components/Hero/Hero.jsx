@@ -55,7 +55,7 @@ const Hero = () => {
             <span>Best Signup Offers </span>
 
             <div>
-              <a href="https://www.youtube.com/" target="_blank"><BsArrowRight /></a>
+              <a href="https://nehemiagueldi.github.io/" target="_blank"><BsArrowRight /></a>
             </div>
           </div>
         </motion.div>
